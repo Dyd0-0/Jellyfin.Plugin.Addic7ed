@@ -18,7 +18,7 @@ Jellyfin plugin for downloading subtitles from Addic7ed.com
 
 ### Installation
 
-1. Download the latest release from the [releases page](https://github.com/yourusername/Jellyfin.Plugin.Addic7ed/releases)
+1. Download the latest release from the [releases page](https://github.com/Dyd0-0/Jellyfin.Plugin.Addic7ed/releases)
 2. Extract the zip file
 3. Copy the `Jellyfin.Plugin.Addic7ed.dll` file to your Jellyfin plugins directory:
    - For Windows: `%PROGRAMDATA%\Jellyfin\Server\plugins`
@@ -75,7 +75,7 @@ Jellyfin plugin for downloading subtitles from Addic7ed.com
 
 ### Installation
 
-1. Téléchargez la dernière version depuis la [page des releases](https://github.com/yourusername/Jellyfin.Plugin.Addic7ed/releases)
+1. Téléchargez la dernière version depuis la [page des releases](https://github.com/Dyd0-0/Jellyfin.Plugin.Addic7ed/releases)
 2. Extrayez le fichier zip
 3. Copiez le fichier `Jellyfin.Plugin.Addic7ed.dll` dans le répertoire des plugins Jellyfin :
    - Pour Windows : `%PROGRAMDATA%\Jellyfin\Server\plugins`
